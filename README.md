@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Roger Willians (Ola sou Roger Willians)
+- 👋 Hi, I’m Roger Willians (Ola me chamo Roger Willians)
 - 👀 I’m interested in Programing & game developing (estou interessado em programação e desenvolvimento de jogos)
 - 🌱 I’m currently learning C#, Javascript, HTLM5, CSS(estou aprendendo as linguagens citadas)
 - 💞️ I’m looking to collaborate and join projects.(estou querendo colaborar com algum e fazer parte de projetos.)
